@@ -15,5 +15,5 @@
 ||fortnite.com^
 ||kongregate.com^
 !streaming
-||twitch.tv^$important
+||twitch.tv^
 ||netflix.com^
