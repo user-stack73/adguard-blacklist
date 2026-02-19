@@ -1,0 +1,9 @@
+!
+! Title: AdGuard DNS filter
+! Description: List made for educational establishments
+! Version: 1.0.2
+! Last modified: 2026-02-19
+!
+!
+||facebook.com^
+||snapchat.com^
