@@ -9,7 +9,7 @@
 ||snapchat.com^
 ||instagram.com^
 ||tiktok.com^
-! game
+! games
 ||poki.com^
 ||roblox.com^
 ||fortnite.com^
