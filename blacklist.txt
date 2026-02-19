@@ -4,6 +4,16 @@
 ! Version: 1.0.2
 ! Last modified: 2026-02-19
 !
-!
+! social network
 ||facebook.com^
 ||snapchat.com^
+||instagram.com^
+||tiktok.com^
+! game
+||poki.com^
+||roblox.com^
+||fortnite.com^
+||kongregate.com^
+!streaming
+||twitch.tv^$important
+||netflix.com^
